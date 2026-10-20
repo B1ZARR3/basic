@@ -1,2 +1,0 @@
-# basic
-repo for basics
